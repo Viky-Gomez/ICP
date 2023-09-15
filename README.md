@@ -1,4 +1,4 @@
-# ICP - Proyecto de Certificación
+# ICP Developer - Proyecto de Certificación
 
 ### Deploy del proyecto:
 
