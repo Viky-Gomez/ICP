@@ -14,8 +14,8 @@
 dfx start --background --clean
 ```
 
-5. Instalar *npm*:
- ```
+4. Instalar *npm*:
+```
 npm install
 ```
 
