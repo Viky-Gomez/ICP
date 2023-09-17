@@ -4,10 +4,10 @@
 
 1. Clonar el repositorio:
 ```
-
+https://github.com/Viky-Gomez/ICP.git
 ```
 
-2. Ubicarse en la carpeta del proyecto:
+2. Ubicarse en la carpeta del proyecto.
 
 3. Dar inicio a la réplica del blockchain:
 ```
